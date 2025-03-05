@@ -156,10 +156,11 @@ body {
   height: 100%;
   padding: 15px;
   text-align: center;
-  color: white !important;
+  color: #204a63 !important;
 }
 #nearby-tab .nav-link.active {
-  color: #204a63 !important;
+  color: white !important;
+  background-color: #204a63;
 }
 .nearby-nav-col h2 {
   font-size: 2rem;
